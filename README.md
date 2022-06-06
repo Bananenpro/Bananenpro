@@ -2,7 +2,7 @@
 
 My name is Julian Hofmann, I'm a student from Germany and I like coding and playing the guitar.
 
-## 🕑 Current projects
+## 🕑 Current Projects
 
 I'm currently working on [CodeGame](https://code-game.org/), an ecosystem of libraries and tools for creating multiplayer games with custom clients in many languages.
 
