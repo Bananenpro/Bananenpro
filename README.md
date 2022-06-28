@@ -10,7 +10,7 @@ I'm currently working on [CodeGame](https://code-game.org/), an ecosystem of lib
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; Github Stats
 
